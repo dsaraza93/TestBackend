@@ -16,6 +16,19 @@ y Swagger para la documentación automática de la API.
 ## Requisitos previos
 
 - **Java 17**
-- **Gradle** 
+- **Gradle**
+  
+# Acceso a Swagger y H2
 
+### Swagger (Documentación interactiva de la API)
+
+Una vez que la aplicación esté en funcionamiento, puedes acceder a la documentación de la API 
+generada por Swagger en la siguiente URL: http://localhost:8080/swagger-ui.html
+Aquí podrás interactuar con los endpoints y ver detalles adicionales de la API.
+
+### Consola H2
+La consola de la base de datos H2 está disponible en: http://localhost:8080/h2-console
+- **JDBC URL**: `jdbc:h2:mem:testdb`
+- **Usuario**: `sa`
+- **Contraseña**: `password`
 
