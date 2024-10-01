@@ -32,3 +32,5 @@ La consola de la base de datos H2 está disponible en: http://localhost:8080/h2-
 - **Usuario**: `sa`
 - **Contraseña**: `password`
 
+### Coleccion Postman
+La colección de Postman para probar la API está disponible en el siguiente enlace: https://hackmd.io/@Ldv8oGabSc6rgt4ESaSfFA/BJx2SWt0R
