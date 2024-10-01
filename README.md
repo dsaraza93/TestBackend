@@ -8,7 +8,7 @@ y Swagger para la documentación automática de la API.
 - **Java 17**
 - **Spring Boot**: Para la creación del backend.
 - **Spring Data JPA**: Para la interacción con la base de datos.
-- **H2 Database**: Base de datos en memoria para propósitos de desarrollo y pruebas.
+- **H2 Database**: Base de datos en memoria (contiene datos precargados)
 - **Swagger/OpenAPI**: Documentación interactiva de la API.
 - **Maven/Gradle**: Gestión de dependencias.
 - **Lombok**: Para reducir el boilerplate en el código.
